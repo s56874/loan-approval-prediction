@@ -6,7 +6,7 @@ This project predicts whether a loan application is likely to be **Approved or R
 
 ## 🚀 Live Demo
 
-**[🌐 Open Loan Approval Prediction App](YOUR_STREAMLIT_APP_LINK)**
+**[🌐 Open Loan Approval Prediction App]((https://loan-approval-prediction-l54zeuzpy5jiuywy8rjwzw.streamlit.app/))**
 
 ## 📌 Project Highlights
 
@@ -53,9 +53,6 @@ The Streamlit application allows users to enter applicant and loan details and r
 * ✅ Loan Approved
 * ❌ Loan Rejected
 
-### Application Preview
-
-[![Streamlit Application](screenshots/streamlit_app.png)](YOUR_STREAMLIT_APP_LINK)
 
 ### Prediction Outputs
 
