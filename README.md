@@ -6,7 +6,7 @@ This project predicts whether a loan application is likely to be **Approved or R
 
 ## 🚀 Live Demo
 
-**[🌐 Open Loan Approval Prediction App]((https://loan-approval-prediction-l54zeuzpy5jiuywy8rjwzw.streamlit.app/))**
+**[🌐 Open Loan Approval Prediction App](https://loan-approval-prediction-l54zeuzpy5jiuywy8rjwzw.streamlit.app/)**
 
 ## 📌 Project Highlights
 
