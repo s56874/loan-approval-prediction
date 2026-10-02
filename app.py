@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Load model
-model = joblib.load("loan_approval_xgboost.pkl")
+model = joblib.load("model/loan_approval_xgboost.pkl")
 
 # Page
 st.set_page_config(
@@ -115,7 +115,7 @@ if st.button("Predict Loan Status"):
 
         st.success("✅ Loan Approved")
 
-        st.image("approved.png", width=250)
+        st.image("screenshots/approved.png", width=250)
 
         st.write(
             f"Approval Probability: **{probability[0] * 100:.2f}%**"
@@ -125,7 +125,7 @@ if st.button("Predict Loan Status"):
 
         st.error("❌ Loan Rejected")
 
-        st.image("rejected.png", width=250)
+        st.image("screenshots/rejected.png", width=250)
 
         st.write(
             f"Rejection Probability: **{probability[1] * 100:.2f}%**"
